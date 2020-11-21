@@ -9,12 +9,18 @@
         <module name="springboot220" />
         <module name="springboot220-helloword" />
         <module name="springboot220_config" />
+        <module name="springboot_2config" />
+        <module name="springboot_lombok" />
+        <module name="springboot_value" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot220" target="1.8" />
       <module name="springboot220-helloword" target="1.8" />
       <module name="springboot220_config" target="1.8" />
+      <module name="springboot_2config" target="1.8" />
+      <module name="springboot_lombok" target="1.8" />
+      <module name="springboot_value" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -22,6 +28,9 @@
       <module name="springboot220" options="-parameters" />
       <module name="springboot220-helloword" options="-parameters" />
       <module name="springboot220_config" options="-parameters" />
+      <module name="springboot_2config" options="-parameters" />
+      <module name="springboot_lombok" options="-parameters" />
+      <module name="springboot_value" options="-parameters" />
     </option>
   </component>
 </project>

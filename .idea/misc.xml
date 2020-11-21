@@ -6,7 +6,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboot220-helloword/pom.xml" />
         <option value="$PROJECT_DIR$/springboot220_config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_2config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_value/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sxt</groupId>
-	<artifactId>springboot220_config</artifactId>
+	<artifactId>springboot_2config</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot220_config</name>
+	<name>springboot_2config</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -30,11 +30,9 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!--热部署-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-devtools</artifactId>
-			<optional>true</optional>
+			<artifactId>spring-boot-configuration-processor</artifactId>
 			<scope>runtime</scope>
 		</dependency>
 	</dependencies>

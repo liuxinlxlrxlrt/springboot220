@@ -1,0 +1,27 @@
+#配置端口server:
+server:
+  port: 8888
+
+#配置学生
+student:
+  id: 333
+  age: ${random.int(1,100)}
+  name: 小周
+  user-name: xdd
+  hobbys:
+    - LOL
+    - dnf
+  lists:
+    - WH
+    - CS
+    - ${student.name}
+    - ${a}
+  maps:
+    k1: h1
+    k2: h2
+  sets:
+    - HOOK
+    - OSS
+  birthday: 2019/01/01 15:33:22
+
+a: aaaa
