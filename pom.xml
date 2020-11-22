@@ -10,7 +10,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>springboot220</groupId>
     <artifactId>springboot220</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>springboot_profiles</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

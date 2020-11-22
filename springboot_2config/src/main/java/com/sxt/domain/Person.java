@@ -8,7 +8,7 @@ import java.util.*;
 
 @PropertySource(value ={"classpath:person.properties"} )
 @Component //<bean id ="student" class="com.sxt.domain.Student"></bean>
-@ConfigurationProperties(prefix = "person") //设置属性
+@ConfigurationProperties(prefix = "student") //设置属性
 public class Person {
 
     private Integer id;

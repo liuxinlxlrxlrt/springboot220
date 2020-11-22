@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot220-helloword/springboot220-helloword.iml" filepath="$PROJECT_DIR$/springboot220-helloword/springboot220-helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot220_config/springboot220_config.iml" filepath="$PROJECT_DIR$/springboot220_config/springboot220_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_2config/springboot_2config.iml" filepath="$PROJECT_DIR$/springboot_2config/springboot_2config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_9_profiles/springboot_9_profiles.iml" filepath="$PROJECT_DIR$/springboot_9_profiles/springboot_9_profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_lombok/springboot_lombok.iml" filepath="$PROJECT_DIR$/springboot_lombok/springboot_lombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_value/springboot_value.iml" filepath="$PROJECT_DIR$/springboot_value/springboot_value.iml" />
     </modules>

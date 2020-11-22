@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sxt</groupId>
-	<artifactId>springboot_2config</artifactId>
+	<artifactId>springboot_9_profiles</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot_2config</name>
+	<name>springboot_9_profiles</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -29,17 +29,15 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-configuration-processor</artifactId>
-			<scope>runtime</scope>
-		</dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
-    </dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-configuration-processor</artifactId>
+		</dependency>
+	</dependencies>
 
 	<build>
 		<plugins>

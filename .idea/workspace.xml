@@ -2,30 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65cfa68-fe12-4d9f-9879-dd9aa9fcb021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot220_config/src/main/java/com/sxt/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/config/StudentConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_2config/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_2config/src/main/resources/person.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_lombok/src/main/java/com/sxt/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_lombok/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_value/src/main/java/com/sxt/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_value/src/main/java/com/sxt/domain/Person02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_value/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValidatedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/config/TeacherConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_2config/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/config/TeacherConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/domain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application-pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot220_config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot220_config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_2config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_2config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/Springboot2configApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/Springboot2configApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_2config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_2config/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_2config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_2config/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_2config/src/main/resources/person.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_2config/src/main/resources/person.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_2config/src/test/java/com/sxt/Springboot2configApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_2config/src/test/java/com/sxt/Springboot2configApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValueTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValueTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springboot220-helloword/target/" />
@@ -33,76 +31,118 @@
     <ignored path="$PROJECT_DIR$/springboot_2config/target/" />
     <ignored path="$PROJECT_DIR$/springboot_lombok/target/" />
     <ignored path="$PROJECT_DIR$/springboot_value/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_9_profiles/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/springboot220$Springboot9ProfilesApplication.ic" NAME="Springboot9ProfilesApplication Coverage Results" MODIFIED="1606031628581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValueTests.java">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/Springboot9ProfilesApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding>
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot_value/src/main/java/com/sxt/domain/Person02.java">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="63">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/test/java/com/sxt/Springboot9ProfilesApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/domain/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+            <state relative-caret-position="147">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot_value/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/config/TeacherConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot_value/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValidatedTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="57">
+              <caret line="23" selection-start-line="23" selection-start-column="2" selection-end-line="26" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application.properties123">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application-pro.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_9_profiles/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -130,13 +170,8 @@
         <option value="$PROJECT_DIR$/springboot220_config/src/main/java/com/sxt/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Student2.java" />
         <option value="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/config/StudentConfig.java" />
-        <option value="$PROJECT_DIR$/springboot_2config/src/test/java/com/sxt/Springboot2configApplicationTests.java" />
         <option value="$PROJECT_DIR$/springboot_2config/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Student.java" />
-        <option value="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Person.java" />
-        <option value="$PROJECT_DIR$/springboot_2config/src/main/resources/person.properties" />
-        <option value="$PROJECT_DIR$/springboot_2config/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springboot_2config/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springboot_lombok/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_lombok/src/main/java/com/sxt/domain/Person.java" />
         <option value="$PROJECT_DIR$/springboot_lombok/src/test/java/com/sxt/SpringbootLombokApplicationTests.java" />
@@ -147,7 +182,23 @@
         <option value="$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValidatedTest.java" />
         <option value="$PROJECT_DIR$/springboot_value/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValueTests.java" />
         <option value="$PROJECT_DIR$/springboot_value/src/main/java/com/sxt/domain/Person02.java" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/main/resources/person.properties" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Person.java" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Teacher.java" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/Springboot2configApplication.java" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/test/java/com/sxt/Springboot2configApplicationTests.java" />
+        <option value="$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/config/TeacherConfig.java" />
+        <option value="$PROJECT_DIR$/springboot_9_profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application-pro.properties" />
+        <option value="$PROJECT_DIR$/springboot_9_profiles/src/test/java/com/sxt/Springboot9ProfilesApplicationTests.java" />
+        <option value="$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/config/TeacherConfig.java" />
+        <option value="$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -157,6 +208,12 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="507" />
@@ -169,6 +226,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,25 +238,25 @@
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -205,7 +264,7 @@
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -214,7 +273,17 @@
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sxt" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot220" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -224,7 +293,7 @@
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -232,14 +301,14 @@
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -247,7 +316,7 @@
             <path>
               <item name="springboot220" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot220" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_value" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_9_profiles" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -257,8 +326,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,9 +335,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605950234817" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606032518560" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javadesignpattern" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -278,9 +345,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sxt.config" />
       <recent name="com.sxt.domain" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaCode\21_ProjectStorageFolder\TestNG\springboot220\springboot_9_profiles\src\main\resources" />
       <recent name="D:\javaCode\21_ProjectStorageFolder\TestNG\springboot220\springboot_value\src\main\resources" />
       <recent name="D:\javaCode\21_ProjectStorageFolder\TestNG\springboot220\springboot_lombok\src\main\resources" />
       <recent name="D:\AutomationProject\springboot\springboot220\springboot220_config\src\main\java\com\sxt" />
@@ -299,7 +368,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ValidatedTest.test">
+  <component name="RunManager" selected="JUnit.Springboot9ProfilesApplicationTests.contextLoads">
     <configuration name="Springboot2configApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot_2config" />
       <extension name="coverage">
@@ -331,8 +400,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootLombokApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot_lombok" />
+    <configuration name="Springboot9ProfilesApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_9_profiles" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sxt.*" />
@@ -340,14 +409,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.sxt" />
-      <option name="MAIN_CLASS_NAME" value="com.sxt.SpringbootLombokApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.sxt.Springboot9ProfilesApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot9ProfilesApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_9_profiles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sxt" />
+      <option name="MAIN_CLASS_NAME" value="com.sxt.Springboot9ProfilesApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidatedTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidatedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot_value" />
       <extension name="coverage">
         <pattern>
@@ -357,24 +441,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.sxt" />
       <option name="MAIN_CLASS_NAME" value="com.sxt.ValidatedTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValueTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot_value" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sxt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sxt" />
-      <option name="MAIN_CLASS_NAME" value="com.sxt.ValueTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -382,6 +449,13 @@
     <configuration name="Springboot2configApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot_2config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sxt.Springboot2configApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot9ProfilesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_9_profiles" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sxt.Springboot9ProfilesApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -402,11 +476,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ValidatedTest.test" />
-        <item itemvalue="JUnit.ValueTests.contextLoads" />
-        <item itemvalue="JUnit.SpringbootLombokApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.Springboot2configApplicationTests" />
+        <item itemvalue="JUnit.Springboot9ProfilesApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot9ProfilesApplicationTests" />
         <item itemvalue="JUnit.Springboot2configApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot2configApplicationTests" />
+        <item itemvalue="JUnit.ValidatedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -424,44 +498,45 @@
       <option name="presentableId" value="Default" />
       <updated>1603945672982</updated>
       <workItem from="1605932116860" duration="11106000" />
-      <workItem from="1605945406691" duration="4740000" />
+      <workItem from="1605945406691" duration="5105000" />
+      <workItem from="1606009414407" duration="9736000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 35m 06s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests - 2020.11.22 at 15h 57m 48s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 36m 02s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 00m 05s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 38m 51s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 01m 41s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 46m 56s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 02m 18s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 48m 20s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 04m 00s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 51m 50s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 04m 12s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 52m 20s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 04m 30s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 52m 41s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 04m 40s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 54m 05s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 07m 00s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatedTest_test - 2020.11.21 at 16h 58m 13s.xml">
-      <configuration name="ValidatedTest.test" configurationId="JUnit" />
+    <history-entry file="Springboot9ProfilesApplicationTests_contextLoads - 2020.11.22 at 16h 07m 53s.xml">
+      <configuration name="Springboot9ProfilesApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15846000" />
+    <option name="totallyTimeSpent" value="25947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -477,20 +552,55 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39253998" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.38898757" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3623446" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5004042" side_tool="true" weight="0.7087034" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.6234458" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5021834" side_tool="true" weight="0.2497979" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4978166" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4978166" weight="0.32983023" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" sideWeight="0.4978166" weight="0.32983023" />
+      <window_info anchor="right" id="Bean Validation" order="9" sideWeight="0.4978166" weight="0.32983023" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20856912" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.44227353" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3623446" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5004042" side_tool="true" weight="0.7087034" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.3285968" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -500,94 +610,17 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20533548" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Java Enterprise" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.4884547" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3285968" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot220-helloword/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot220-helloword/src/main/java/com/example/demo/controller/HellorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot220-helloword/src/main/resources/banner.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot220-helloword/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot220-helloword/src/test/java/com/example/demo/Springboot220HellowordApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot220-helloword/src/main/java/com/example/demo/Springboot220HellowordApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.4.0/spring-boot-autoconfigure-2.4.0.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot220_config/src/test/java/com/sxt/Springboot220ConfigApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
@@ -695,108 +728,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/Springboot2configApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="10" selection-start-line="10" selection-start-column="1" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/resources/person.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/util/Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="129" column="3" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
-            <element signature="e#1102#1103#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-            <element signature="e#1206#1207#0" expanded="true" />
-            <element signature="e#1237#1238#0" expanded="true" />
-            <element signature="e#1263#1264#0" expanded="true" />
-            <element signature="e#1302#1303#0" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
-            <element signature="e#1365#1366#0" expanded="true" />
-            <element signature="e#1396#1397#0" expanded="true" />
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#1482#1483#0" expanded="true" />
-            <element signature="e#1734#1735#0" expanded="true" />
-            <element signature="e#1765#1766#0" expanded="true" />
-            <element signature="e#1813#1814#0" expanded="true" />
-            <element signature="e#1853#1854#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/config/StudentConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="20" selection-start-line="7" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="13" selection-start-line="13" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_2config/src/test/java/com/sxt/Springboot2configApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -838,20 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_value/src/main/java/com/sxt/domain/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="16" selection-start-line="16" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot_value/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -859,43 +780,228 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValidatedTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_value/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="267">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValueTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="57">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_value/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_value/src/test/java/com/sxt/ValidatedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_value/src/main/java/com/sxt/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_value/src/main/java/com/sxt/domain/Person02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="204">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/config/StudentConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret selection-start-column="1" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/resources/person.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/Springboot2configApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/resources/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/domain/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_profiles/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/main/java/com/sxt/config/TeacherConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="8" selection-start-line="8" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_2config/src/test/java/com/sxt/Springboot2configApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_value/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application-pro.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application.properties123">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/domain/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/test/java/com/sxt/Springboot9ProfilesApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/Springboot9ProfilesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/java/com/sxt/config/TeacherConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="23" selection-start-line="23" selection-start-column="2" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_9_profiles/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
