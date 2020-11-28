@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -10,8 +11,11 @@
         <module name="springboot220_config" />
         <module name="springboot_2config" />
         <module name="springboot_9_profiles" />
+        <module name="springboot_aop" />
         <module name="springboot_lombok" />
+        <module name="springboot_thymeleaf" />
         <module name="springboot_value" />
+        <module name="springboot_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,8 +24,11 @@
       <module name="springboot220_config" target="1.8" />
       <module name="springboot_2config" target="1.8" />
       <module name="springboot_9_profiles" target="1.8" />
+      <module name="springboot_aop" target="1.8" />
       <module name="springboot_lombok" target="1.8" />
+      <module name="springboot_thymeleaf" target="1.8" />
       <module name="springboot_value" target="1.8" />
+      <module name="springboot_web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -31,8 +38,11 @@
       <module name="springboot220_config" options="-parameters" />
       <module name="springboot_2config" options="-parameters" />
       <module name="springboot_9_profiles" options="-parameters" />
+      <module name="springboot_aop" options="-parameters" />
       <module name="springboot_lombok" options="-parameters" />
+      <module name="springboot_thymeleaf" options="-parameters" />
       <module name="springboot_value" options="-parameters" />
+      <module name="springboot_web" options="-parameters" />
     </option>
   </component>
 </project>

@@ -2,6 +2,7 @@ package com.sxt;
 
 import com.sxt.domain.Student;
 import com.sxt.domain.Person;
+import com.sxt.domain.Student02;
 import com.sxt.domain.Teacher;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,10 +22,14 @@ class Springboot2configApplicationTests {
 	@Qualifier("teacher03")
 	private Teacher teacher;
 
+	@Autowired
+	private Student02 student02;
+
 	@Test
 	void contextLoads() {
-//		System.out.println(student);
-//		System.out.println(person);
+		System.out.println(student);
+		System.out.println(person);
 		System.out.println(teacher);
+		System.out.println(student02);
 	}
 }
