@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_9_profiles/springboot_9_profiles.iml" filepath="$PROJECT_DIR$/springboot_9_profiles/springboot_9_profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_aop/springboot_aop.iml" filepath="$PROJECT_DIR$/springboot_aop/springboot_aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_lombok/springboot_lombok.iml" filepath="$PROJECT_DIR$/springboot_lombok/springboot_lombok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_mvc_component/springboot_mvc_component.iml" filepath="$PROJECT_DIR$/springboot_mvc_component/springboot_mvc_component.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml" filepath="$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_value/springboot_value.iml" filepath="$PROJECT_DIR$/springboot_value/springboot_value.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_web/springboot_web.iml" filepath="$PROJECT_DIR$/springboot_web/springboot_web.iml" />

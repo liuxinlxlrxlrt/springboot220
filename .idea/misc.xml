@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/springboot_web/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_aop/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_mvc_component/pom.xml" />
       </list>
     </option>
   </component>

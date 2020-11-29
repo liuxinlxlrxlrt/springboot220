@@ -1,0 +1,15 @@
+#配置视图解析器spring:
+spring:
+     mvc:
+       view:
+          prefix: /WEB-INF/view/
+          suffix: .jsp
+       format:
+         date-time: 'yyyy-MM-dd HH:mm:ss'
+
+
+  #文件上传的设置
+     servlet:
+       multipart:
+         enabled: true
+         max-file-size: 10MB
