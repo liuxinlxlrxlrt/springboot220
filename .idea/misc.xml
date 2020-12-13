@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot_external_tomcat" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -14,6 +17,13 @@
         <option value="$PROJECT_DIR$/springboot_aop/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_mvc_component/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_mvc_component_strong/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_external_tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_web_3component/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_jdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_swagger/pom.xml" />
       </list>
     </option>
   </component>

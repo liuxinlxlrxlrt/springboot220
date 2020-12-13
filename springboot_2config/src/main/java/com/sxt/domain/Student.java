@@ -1,10 +1,15 @@
 package com.sxt.domain;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 import java.util.*;
-
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 //@Component //<bean id ="student" class="com.sxt.domain.Student"></bean>
 //@ConfigurationProperties(prefix = "student") //设置属性
 public class Student {

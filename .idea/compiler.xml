@@ -12,11 +12,18 @@
         <module name="springboot_2config" />
         <module name="springboot_9_profiles" />
         <module name="springboot_aop" />
+        <module name="springboot_datasource" />
+        <module name="springboot_external_tomcat" />
+        <module name="springboot_jdbctemplate" />
         <module name="springboot_lombok" />
         <module name="springboot_mvc_component" />
+        <module name="springboot_mvc_component_strong" />
+        <module name="springboot_mybatis" />
+        <module name="springboot_swagger" />
         <module name="springboot_thymeleaf" />
         <module name="springboot_value" />
         <module name="springboot_web" />
+        <module name="springboot_web_3component" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,11 +33,18 @@
       <module name="springboot_2config" target="1.8" />
       <module name="springboot_9_profiles" target="1.8" />
       <module name="springboot_aop" target="1.8" />
+      <module name="springboot_datasource" target="1.8" />
+      <module name="springboot_external_tomcat" target="1.8" />
+      <module name="springboot_jdbctemplate" target="1.8" />
       <module name="springboot_lombok" target="1.8" />
       <module name="springboot_mvc_component" target="1.8" />
+      <module name="springboot_mvc_component_strong" target="1.8" />
+      <module name="springboot_mybatis" target="1.8" />
+      <module name="springboot_swagger" target="1.8" />
       <module name="springboot_thymeleaf" target="1.8" />
       <module name="springboot_value" target="1.8" />
       <module name="springboot_web" target="1.8" />
+      <module name="springboot_web_3component" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -41,11 +55,18 @@
       <module name="springboot_2config" options="-parameters" />
       <module name="springboot_9_profiles" options="-parameters" />
       <module name="springboot_aop" options="-parameters" />
+      <module name="springboot_datasource" options="-parameters" />
+      <module name="springboot_external_tomcat" options="-parameters" />
+      <module name="springboot_jdbctemplate" options="-parameters" />
       <module name="springboot_lombok" options="-parameters" />
       <module name="springboot_mvc_component" options="-parameters" />
+      <module name="springboot_mvc_component_strong" options="-parameters" />
+      <module name="springboot_mybatis" options="-parameters" />
+      <module name="springboot_swagger" options="-parameters" />
       <module name="springboot_thymeleaf" options="-parameters" />
       <module name="springboot_value" options="-parameters" />
       <module name="springboot_web" options="-parameters" />
+      <module name="springboot_web_3component" options="-parameters" />
     </option>
   </component>
 </project>

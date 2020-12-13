@@ -8,11 +8,18 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_2config/springboot_2config.iml" filepath="$PROJECT_DIR$/springboot_2config/springboot_2config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_9_profiles/springboot_9_profiles.iml" filepath="$PROJECT_DIR$/springboot_9_profiles/springboot_9_profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_aop/springboot_aop.iml" filepath="$PROJECT_DIR$/springboot_aop/springboot_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_datasource/springboot_datasource.iml" filepath="$PROJECT_DIR$/springboot_datasource/springboot_datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_external_tomcat/springboot_external_tomcat.iml" filepath="$PROJECT_DIR$/springboot_external_tomcat/springboot_external_tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_jdbctemplate/springboot_jdbctemplate.iml" filepath="$PROJECT_DIR$/springboot_jdbctemplate/springboot_jdbctemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_lombok/springboot_lombok.iml" filepath="$PROJECT_DIR$/springboot_lombok/springboot_lombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_mvc_component/springboot_mvc_component.iml" filepath="$PROJECT_DIR$/springboot_mvc_component/springboot_mvc_component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_mvc_component_strong/springboot_mvc_component_strong.iml" filepath="$PROJECT_DIR$/springboot_mvc_component_strong/springboot_mvc_component_strong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" filepath="$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_swagger/springboot_swagger.iml" filepath="$PROJECT_DIR$/springboot_swagger/springboot_swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml" filepath="$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_value/springboot_value.iml" filepath="$PROJECT_DIR$/springboot_value/springboot_value.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_web/springboot_web.iml" filepath="$PROJECT_DIR$/springboot_web/springboot_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_web_3component/springboot_web_3component.iml" filepath="$PROJECT_DIR$/springboot_web_3component/springboot_web_3component.iml" />
     </modules>
   </component>
 </project>

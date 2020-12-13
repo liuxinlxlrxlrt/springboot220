@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" native2AsciiForPropertiesFiles="true" addBOMForNewFiles="with NO BOM">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot220-helloword" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot220-helloword/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot220_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot220_config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_2config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_2config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_9_profiles" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_9_profiles/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_datasource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_external_tomcat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_external_tomcat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_jdbctemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_jdbctemplate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_lombok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_lombok/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mvc_component" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mvc_component/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mvc_component_strong" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mvc_component_strong/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_swagger/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_thymeleaf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_value" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_value/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_web_3component" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_web_3component/src/main/java" charset="UTF-8" />
   </component>
 </project>
